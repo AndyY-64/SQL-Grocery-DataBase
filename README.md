@@ -5,11 +5,12 @@ TEAM MEMBERS:
 1. Andrew Yancey, - https://github.com/AndyY-64
 2. Kristina Lam, - https://github.com/sybiesuga
 3. Bryan Yang, - https://github.com/BryanYangUGA
-4. Shivani Menon, - 
+4. Shivani Menon, - https://github.com/shivanimenon 
+5. Andrew Pruitt, - 
 
 
 PROBLEM DESCRIPTION:
-Our mission is to build a relational database modeling a regional grocery store chain operating multiple locations across the southeastern United States. The primary entity in the model represents each stores unquie "LocationID" - the specfic location of each grocery across the southeast. Each store offers a variety of products grouped by category and sourced from a multitude of 3rd party suppliers. The database will support employee tracking, inventory managment, customer transactions, and orders from suppliers. Using sample data, we will generate meaningful queries that will assist managerers and exects in analyzing sales, tracking inventory, and managing store profitabiltiy. 
+Our mission is to build a relational database modeling a regional grocery store chain operating multiple locations across the southeastern United States. The primary entity in the model represents each stores unique "LocationID" - the specific location of each grocery across the southeast. Each store offers a variety of products grouped by category and sourced from a multitude of 3rd party suppliers. The database will support employee tracking, inventory management, customer transactions, and orders from suppliers. Using sample data, we will generate meaningful queries that will assist managers and executives in analyzing sales, tracking inventory, and managing store profitabiltiy. 
 
 DATA MODEL:
   - Explanation of Data Model:
