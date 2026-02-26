@@ -9,6 +9,9 @@ TEAM MEMBERS:
 5. Andrew Pruitt, - https://github.com/andrewpruitt033
 
 
+Lakhiwhal Suggestions: He said watch for the accidental many to many between employee and customer right 
+And switch category to sections
+
 PROBLEM DESCRIPTION:
 Our mission is to build a relational database modeling a regional grocery store chain operating multiple locations across the southeastern United States. The primary entity in the model represents each stores unique "LocationID" - the specific location of each grocery across the southeast. Each store offers a variety of products grouped by category and sourced from a multitude of 3rd party suppliers. The database will support employee tracking, inventory management, customer transactions, and orders from suppliers. Using sample data, we will generate meaningful queries that will assist managers and executives in analyzing sales, tracking inventory, and managing store profitabiltiy. 
 
