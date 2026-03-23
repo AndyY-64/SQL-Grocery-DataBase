@@ -45,7 +45,7 @@ QUERIES:
   8. Query #8 (Employees Hired in Last Two Years)
     - Query 8
 
-  9. Query #9 (Products Supplied by More Than One Supplier)
+  9. Query #9 (Customers with the Most Transactions)
     - Query 9
 
   10. Query #10 (Product Cost Above Average Price in Their Category) 
