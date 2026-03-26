@@ -23,32 +23,36 @@ DATA DICTIONARY:
 QUERIES:
   1. Query #1 (Total Sales per Store)
     - Query 1 displays the total sales for each individual store
+     This query calculates the sum of total sales for each individual store, and this helps managers analyze which stores are performing well or need improvement. 
      
-  2. Query #2 (Products Below Reorder Level)
+  3. Query #2 (Products Below Reorder Level)
     - Query 2
+     This query notifies the manager when certain items' stock is low, and that helps managers restock before they run out of an item.
      
-  3. Query #3 (Top 5 Best Selling Products)
+  5. Query #3 (Top 5 Best Selling Products)
     - Query 3
+     This query identifies the top-selling products of the company, which allows managers to figure out what to promote and what to keep when cycling out inventory to maintain high sales.  
      
-  4. Query #4 (Average Transaction Value)
+  6. Query #4 (Average Transaction Value)
     - Query 4
+This query summarizes how much the average customer spends in a store, which allows managers to analyze how much the average customer spends and how it contributes to the overall sales of the company. 
      
-  5. Query #5 (Suppliers with Above Average Costs)
+  7. Query #5 (Suppliers with Above Average Costs)
     - Query 5
      
-  6. Query #6 (Stores That Have Never Sold a Certain Category)
+  8. Query #6 (Stores That Have Never Sold a Certain Category)
     - Query 6
       
-  7. Query #7 (Customers Who Spent More Than $500)
+  9. Query #7 (Customers Who Spent More Than $500)
     - Query 7
 
-  8. Query #8 (Employees Hired in Last Two Years)
+  10. Query #8 (Employees Hired in Last Two Years)
     - Query 8
 
-  9. Query #9 (Customers with the Most Transactions)
+  11. Query #9 (Customers with the Most Transactions)
     - Query 9
 
-  10. Query #10 (Product Cost Above Average Price in Their Category) 
+  12. Query #10 (Product Cost Above Average Price in Their Category) 
     - Query 10
 
 
