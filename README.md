@@ -22,37 +22,41 @@ DATA DICTIONARY:
 
 QUERIES:
   1. Query #1 (Total Sales per Store)
-    - Query 1 displays the total sales for each individual store
+    - Query 1
+     What are the total sales for each individual store?
      This query calculates the sum of total sales for each individual store, and this helps managers analyze which stores are performing well or need improvement. 
      
   3. Query #2 (Products Below Reorder Level)
     - Query 2
+     What items are low in stock?
      This query notifies the manager when certain items' stock is low, and that helps managers restock before they run out of an item.
      
   5. Query #3 (Top 5 Best Selling Products)
     - Query 3
+     What items are top-selling in the company?
      This query identifies the top-selling products of the company, which allows managers to figure out what to promote and what to keep when cycling out inventory to maintain high sales.  
      
-  6. Query #4 (Average Transaction Value)
+  7. Query #4 (Average Transaction Value)
     - Query 4
+     What is the average amount a customer spends in the store?
 This query summarizes how much the average customer spends in a store, which allows managers to analyze how much the average customer spends and how it contributes to the overall sales of the company. 
      
-  7. Query #5 (Suppliers with Above Average Costs)
+  9. Query #5 (Suppliers with Above Average Costs)
     - Query 5
      
-  8. Query #6 (Stores That Have Never Sold a Certain Category)
+  10. Query #6 (Stores That Have Never Sold a Certain Category)
     - Query 6
       
-  9. Query #7 (Customers Who Spent More Than $500)
+  11. Query #7 (Customers Who Spent More Than $500)
     - Query 7
 
-  10. Query #8 (Employees Hired in Last Two Years)
+  12. Query #8 (Employees Hired in Last Two Years)
     - Query 8
 
-  11. Query #9 (Customers with the Most Transactions)
+  13. Query #9 (Customers with the Most Transactions)
     - Query 9
 
-  12. Query #10 (Product Cost Above Average Price in Their Category) 
+  14. Query #10 (Product Cost Above Average Price in Their Category) 
     - Query 10
 
 
