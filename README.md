@@ -50,7 +50,7 @@ This query summarizes how much the average customer spends in a store, which all
   11. Query #7 (Customers Who Spent More Than $500)
     - Query 7
 
-  12. Query #8 (Employees Hired in Last Two Years)
+  12. Query #8 (The 5 most recent Orders)
     - Query 8
 
   13. Query #9 (Customers with the Most Transactions)
