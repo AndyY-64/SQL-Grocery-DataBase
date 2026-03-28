@@ -35,7 +35,8 @@ Query #1 (Total Sales per Store)
      What items are low in stock?
      This query notifies the manager when certain items' stock is low, and that helps managers restock before they run out of an item.
 
-     <img width="816" height="528" alt="Screenshot 2026-03-28 at 12 06 17 PM" src="https://github.com/user-attachments/assets/5b820f63-c5fb-40a1-aa37-f75f5b80741b" />
+<img width="818" height="525" alt="Screenshot 2026-03-28 at 12 07 15 PM" src="https://github.com/user-attachments/assets/6ee42a74-d548-4169-bbe0-91e50eee6e98" />
+
 
   5. Query #3 (Top 5 Best Selling Products)
     - Query 3
