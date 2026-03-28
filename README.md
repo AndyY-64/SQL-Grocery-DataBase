@@ -24,13 +24,14 @@ DATA DICTIONARY:
 
 
 QUERIES:
-  1. Query #1 (Total Sales per Store)
-    - Query 1
+
+Query #1 (Total Sales per Store)
      What are the total sales for each individual store?
      This query calculates the sum of total sales for each individual store, and this helps managers analyze which stores are performing well or need improvement. 
-     
-  3. Query #2 (Products Below Reorder Level)
-    - Query 2
+
+   <img width="818" height="525" alt="Screenshot 2026-03-28 at 12 04 31 PM" src="https://github.com/user-attachments/assets/d456577c-ff2c-416f-893c-af52dacce7e1" />
+  
+  Query #2 (Products Below Reorder Level)
      What items are low in stock?
      This query notifies the manager when certain items' stock is low, and that helps managers restock before they run out of an item.
      
