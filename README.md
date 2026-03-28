@@ -63,6 +63,7 @@ Query #7 (Customers Who Spent More Than $500)
 <img width="814" height="520" alt="Screenshot 2026-03-28 at 12 13 49 PM" src="https://github.com/user-attachments/assets/38831165-0516-4c9c-b8f5-38e994bad902" />
 
 Query #8 (The 5 most recent Orders)
+     What are the most recent orders made in the system? This query can track the latest orders based on the order date limited to the five recent transactions. This can help managers quickly and efficiently review sales activity and track performance.
 
 <img width="816" height="515" alt="Screenshot 2026-03-28 at 12 14 18 PM" src="https://github.com/user-attachments/assets/dd6f05da-2b83-4b7b-a4a7-e28532fa7d6a" />
 
