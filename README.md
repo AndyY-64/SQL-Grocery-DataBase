@@ -65,11 +65,15 @@ Query #8 (The 5 most recent Orders)
 
 <img width="816" height="515" alt="Screenshot 2026-03-28 at 12 14 18 PM" src="https://github.com/user-attachments/assets/dd6f05da-2b83-4b7b-a4a7-e28532fa7d6a" />
 
-Query #9 (Customers with the Most Transactions)
+Query #9 (Customers with the Most Transactions) 
+What customers have made the most transactions?
+This query calculates the total number of transactions made by each customer by counting their orders, helping managers identify the most active or valuable customers.
 
 <img width="813" height="516" alt="Screenshot 2026-03-28 at 12 14 52 PM" src="https://github.com/user-attachments/assets/24254594-b7c8-41a2-b0bf-70b296715bd2" />
 
 Query #10 (Product Cost Above Average Price in Their Category) 
+Which products are priced above the average price within their category?
+This query identifies products whose prices are higher than the average price in their section, helping managers evaluate pricing strategies and identify premium or overpriced items.
 
 <img width="812" height="505" alt="Screenshot 2026-03-28 at 12 15 36 PM" src="https://github.com/user-attachments/assets/aedbd0e4-eb50-49b5-aa5d-71d426f1f252" />
 
