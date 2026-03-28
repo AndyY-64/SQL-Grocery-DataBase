@@ -58,6 +58,7 @@ Query #6 (Stores That Have Never Sold a Certain Category)
  <img width="814" height="509" alt="Screenshot 2026-03-28 at 12 13 07 PM" src="https://github.com/user-attachments/assets/d5165194-9454-43e6-86d9-2f6018fd1379" />
   
 Query #7 (Customers Who Spent More Than $500)
+     This query identifies customers who spend more than 500 dollars. This helps managers to recognize high value customers and possibly have them become loyal customers by offering promotions, discounts and loyalty programs.
 
 <img width="814" height="520" alt="Screenshot 2026-03-28 at 12 13 49 PM" src="https://github.com/user-attachments/assets/38831165-0516-4c9c-b8f5-38e994bad902" />
 
