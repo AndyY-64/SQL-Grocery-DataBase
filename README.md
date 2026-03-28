@@ -34,7 +34,9 @@ Query #1 (Total Sales per Store)
   Query #2 (Products Below Reorder Level)
      What items are low in stock?
      This query notifies the manager when certain items' stock is low, and that helps managers restock before they run out of an item.
-     
+
+     <img width="816" height="528" alt="Screenshot 2026-03-28 at 12 06 17 PM" src="https://github.com/user-attachments/assets/5b820f63-c5fb-40a1-aa37-f75f5b80741b" />
+
   5. Query #3 (Top 5 Best Selling Products)
     - Query 3
      What items are top-selling in the company?
