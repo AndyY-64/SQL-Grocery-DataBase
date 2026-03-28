@@ -50,7 +50,7 @@ This query summarizes how much the average customer spends in a store, which all
 <img width="815" height="516" alt="Screenshot 2026-03-28 at 12 10 30 PM" src="https://github.com/user-attachments/assets/2ea6c2f3-a4d0-42fb-9058-0eabe66787b7" />
 
 Query #5 (Suppliers with Above Average Costs)
-  
+     What suppliers have higher than average prices? The query identifies suppliers whose average price is above the mean price of all products. This helps managers to look at supplier cost and see if any replacement in supplier is needed
   <img width="815" height="512" alt="Screenshot 2026-03-28 at 12 11 09 PM" src="https://github.com/user-attachments/assets/6917dc86-4813-42b4-9251-5bccea96ab86" />
   
 Query #6 (Stores That Have Never Sold a Certain Category)
