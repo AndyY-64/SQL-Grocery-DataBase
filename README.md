@@ -74,7 +74,7 @@ Query #10 (Product Cost Above Average Price in Their Category)
 <img width="812" height="505" alt="Screenshot 2026-03-28 at 12 15 36 PM" src="https://github.com/user-attachments/assets/aedbd0e4-eb50-49b5-aa5d-71d426f1f252" />
 
 DATABASE INFORMATION: 
-Database Name: grocery_chain_db
+Database Name: al_Group_21482_G1
 Additonal Information:
   - Database created using MySQLWorkbench 8.0C
-  - 
+  - Each query listed above is a store procedure which can be called using: CALL TP_Q#();
