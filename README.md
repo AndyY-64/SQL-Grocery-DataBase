@@ -54,6 +54,7 @@ Query #5 (Suppliers with Above Average Costs)
   <img width="815" height="512" alt="Screenshot 2026-03-28 at 12 11 09 PM" src="https://github.com/user-attachments/assets/6917dc86-4813-42b4-9251-5bccea96ab86" />
   
 Query #6 (Stores That Have Never Sold a Certain Category)
+     This query can check which stores have not sold product from a certain section. It helps manager detect gaps in customer preference in different locations. Then each store can have their own items and matches the customers interest. 
  
  <img width="814" height="509" alt="Screenshot 2026-03-28 at 12 13 07 PM" src="https://github.com/user-attachments/assets/d5165194-9454-43e6-86d9-2f6018fd1379" />
   
