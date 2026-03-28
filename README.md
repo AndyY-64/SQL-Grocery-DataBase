@@ -31,41 +31,47 @@ Query #1 (Total Sales per Store)
 
    <img width="818" height="525" alt="Screenshot 2026-03-28 at 12 04 31 PM" src="https://github.com/user-attachments/assets/d456577c-ff2c-416f-893c-af52dacce7e1" />
   
-  Query #2 (Products Below Reorder Level)
+Query #2 (Products Below Reorder Level)
      What items are low in stock?
      This query notifies the manager when certain items' stock is low, and that helps managers restock before they run out of an item.
 
 <img width="818" height="525" alt="Screenshot 2026-03-28 at 12 07 15 PM" src="https://github.com/user-attachments/assets/6ee42a74-d548-4169-bbe0-91e50eee6e98" />
 
-
-  5. Query #3 (Top 5 Best Selling Products)
-    - Query 3
+Query #3 (Top 5 Best Selling Products)
      What items are top-selling in the company?
      This query identifies the top-selling products of the company, which allows managers to figure out what to promote and what to keep when cycling out inventory to maintain high sales.  
      
-  7. Query #4 (Average Transaction Value)
-    - Query 4
+<img width="814" height="520" alt="Screenshot 2026-03-28 at 12 09 34 PM" src="https://github.com/user-attachments/assets/21540657-e8b1-4f21-8582-ac5c6b9d85ac" />
+
+Query #4 (Average Transaction Value)
      What is the average amount a customer spends in the store?
 This query summarizes how much the average customer spends in a store, which allows managers to analyze how much the average customer spends and how it contributes to the overall sales of the company. 
-     
-  9. Query #5 (Suppliers with Above Average Costs)
-    - Query 5
-     
-  10. Query #6 (Stores That Have Never Sold a Certain Category)
-    - Query 6
-      
-  11. Query #7 (Customers Who Spent More Than $500)
-    - Query 7
 
-  12. Query #8 (The 5 most recent Orders)
-    - Query 8
+<img width="815" height="516" alt="Screenshot 2026-03-28 at 12 10 30 PM" src="https://github.com/user-attachments/assets/2ea6c2f3-a4d0-42fb-9058-0eabe66787b7" />
 
-  13. Query #9 (Customers with the Most Transactions)
-    - Query 9
+Query #5 (Suppliers with Above Average Costs)
+  
+  <img width="815" height="512" alt="Screenshot 2026-03-28 at 12 11 09 PM" src="https://github.com/user-attachments/assets/6917dc86-4813-42b4-9251-5bccea96ab86" />
+  
+Query #6 (Stores That Have Never Sold a Certain Category)
+ 
+ <img width="814" height="509" alt="Screenshot 2026-03-28 at 12 13 07 PM" src="https://github.com/user-attachments/assets/d5165194-9454-43e6-86d9-2f6018fd1379" />
+  
+Query #7 (Customers Who Spent More Than $500)
 
-  14. Query #10 (Product Cost Above Average Price in Their Category) 
-    - Query 10
+<img width="814" height="520" alt="Screenshot 2026-03-28 at 12 13 49 PM" src="https://github.com/user-attachments/assets/38831165-0516-4c9c-b8f5-38e994bad902" />
 
+Query #8 (The 5 most recent Orders)
+
+<img width="816" height="515" alt="Screenshot 2026-03-28 at 12 14 18 PM" src="https://github.com/user-attachments/assets/dd6f05da-2b83-4b7b-a4a7-e28532fa7d6a" />
+
+Query #9 (Customers with the Most Transactions)
+
+<img width="813" height="516" alt="Screenshot 2026-03-28 at 12 14 52 PM" src="https://github.com/user-attachments/assets/24254594-b7c8-41a2-b0bf-70b296715bd2" />
+
+Query #10 (Product Cost Above Average Price in Their Category) 
+
+<img width="812" height="505" alt="Screenshot 2026-03-28 at 12 15 36 PM" src="https://github.com/user-attachments/assets/aedbd0e4-eb50-49b5-aa5d-71d426f1f252" />
 
 DATABASE INFORMATION: 
 Database Name: grocery_chain_db
