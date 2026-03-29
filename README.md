@@ -23,23 +23,33 @@ The purpose of Project 1's data model was to assist a chain of supermarkets in e
 
 DATA DICTIONARY:
 
+
 <img width="717" height="183" alt="Screenshot 2026-03-29 at 4 30 53 PM" src="https://github.com/user-attachments/assets/7474ee89-f73a-4736-be66-3cbf0b727d75" />
+
 
 <img width="723" height="310" alt="Screenshot 2026-03-29 at 4 32 42 PM" src="https://github.com/user-attachments/assets/11cfb53c-4f30-4d89-8f1c-cad947d042a1" />
 
+
 <img width="680" height="193" alt="Screenshot 2026-03-29 at 4 33 02 PM" src="https://github.com/user-attachments/assets/9eb2603b-0403-44bd-b8f1-8035e055ea55" />
+
 
 <img width="682" height="392" alt="Screenshot 2026-03-29 at 4 33 21 PM" src="https://github.com/user-attachments/assets/d6fb5a12-f46b-4e00-b658-d723c5277fc0" />
 
+
 <img width="680" height="225" alt="Screenshot 2026-03-29 at 4 33 42 PM" src="https://github.com/user-attachments/assets/4bdd9bbe-da16-43f8-bd73-727965ec43b7" />
+
 
 <img width="684" height="225" alt="Screenshot 2026-03-29 at 4 33 59 PM" src="https://github.com/user-attachments/assets/2448c68a-e41c-48fd-9f2e-3a6d5c6b32a7" />
 
+
 <img width="684" height="174" alt="Screenshot 2026-03-29 at 4 35 22 PM" src="https://github.com/user-attachments/assets/558a033c-958b-4a53-81cd-583e823b8896" />
+
 
 <img width="678" height="338" alt="Screenshot 2026-03-29 at 4 35 46 PM" src="https://github.com/user-attachments/assets/a4731bb0-5f44-463d-8411-0f152ecdcf64" />
 
+
 <img width="683" height="401" alt="Screenshot 2026-03-29 at 4 36 03 PM" src="https://github.com/user-attachments/assets/00ac7ab0-d459-438e-84e6-dcdfe30fb904" />
+
 
 QUERIES:
 
