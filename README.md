@@ -29,6 +29,11 @@ DATA DICTIONARY:
 
 <img width="684" height="225" alt="Screenshot 2026-03-29 at 4 33 59 PM" src="https://github.com/user-attachments/assets/2448c68a-e41c-48fd-9f2e-3a6d5c6b32a7" />
 
+<img width="684" height="174" alt="Screenshot 2026-03-29 at 4 35 22 PM" src="https://github.com/user-attachments/assets/558a033c-958b-4a53-81cd-583e823b8896" />
+
+<img width="678" height="338" alt="Screenshot 2026-03-29 at 4 35 46 PM" src="https://github.com/user-attachments/assets/a4731bb0-5f44-463d-8411-0f152ecdcf64" />
+
+<img width="683" height="401" alt="Screenshot 2026-03-29 at 4 36 03 PM" src="https://github.com/user-attachments/assets/00ac7ab0-d459-438e-84e6-dcdfe30fb904" />
 
 QUERIES:
 
