@@ -15,6 +15,8 @@ Our mission is to build a relational database modeling a regional grocery store 
 DATA MODEL:
 The purpose of Project 1's data model was to assist a chain of supermarkets in effectively and efficiently managing its inventory, orders, customers, employees, suppliers, categories, and store locations. The model uses normalized relational tables with primary and foreign keys to describe real-world business relationships and preserve data integrity. While suppliers and categories can be connected to several items, each product in the data model is a member of a single category and is provided by a single supplier. The problem of clients submitting many orders, each handled by a single employee and including different products, is resolved by the Order Item table, which keeps track of quantity and unit price. An inventory table is used to track the many-to-many relationship between products and stores by tracking inventory across several store locations. The store locations are managed by employees, and all relationships are enforced using foreign keys.
 
+<img width="947" height="738" alt="Screenshot 2026-03-29 at 4 38 04 PM" src="https://github.com/user-attachments/assets/32922529-8462-4a1f-acf2-5d27df8e2a1d" />
+
 DATA DICTIONARY:
 
 <img width="717" height="183" alt="Screenshot 2026-03-29 at 4 30 53 PM" src="https://github.com/user-attachments/assets/7474ee89-f73a-4736-be66-3cbf0b727d75" />
