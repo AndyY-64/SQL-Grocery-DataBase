@@ -19,6 +19,8 @@ The purpose of Project 1's data model was to assist a chain of supermarkets in e
 
 <img width="947" height="738" alt="Screenshot 2026-03-29 at 4 38 04 PM" src="https://github.com/user-attachments/assets/32922529-8462-4a1f-acf2-5d27df8e2a1d" />
 
+
+
 DATA DICTIONARY:
 
 <img width="717" height="183" alt="Screenshot 2026-03-29 at 4 30 53 PM" src="https://github.com/user-attachments/assets/7474ee89-f73a-4736-be66-3cbf0b727d75" />
