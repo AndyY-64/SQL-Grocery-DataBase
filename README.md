@@ -19,8 +19,6 @@ DATA DICTIONARY:
 
 <img width="717" height="183" alt="Screenshot 2026-03-29 at 4 30 53 PM" src="https://github.com/user-attachments/assets/7474ee89-f73a-4736-be66-3cbf0b727d75" />
 
-<img width="664" height="289" alt="Screenshot 2026-03-28 at 12 01 13 PM" src="https://github.com/user-attachments/assets/04164bbd-a64c-4f1c-a668-bdda6af93027" />
-
 <img width="723" height="310" alt="Screenshot 2026-03-29 at 4 32 42 PM" src="https://github.com/user-attachments/assets/11cfb53c-4f30-4d89-8f1c-cad947d042a1" />
 
 <img width="680" height="193" alt="Screenshot 2026-03-29 at 4 33 02 PM" src="https://github.com/user-attachments/assets/9eb2603b-0403-44bd-b8f1-8035e055ea55" />
@@ -34,7 +32,7 @@ DATA DICTIONARY:
 
 QUERIES:
 
-
+<img width="664" height="289" alt="Screenshot 2026-03-28 at 12 01 13 PM" src="https://github.com/user-attachments/assets/04164bbd-a64c-4f1c-a668-bdda6af93027" />
 
 Query #1 (Total Sales per Store)
      What are the total sales for each individual store?
