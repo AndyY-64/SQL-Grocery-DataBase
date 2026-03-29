@@ -79,6 +79,7 @@ This query identifies products whose prices are higher than the average price in
 
 DATABASE INFORMATION: 
 Database Name: al_Group_21482_G1
+
 Additonal Information:
   - Database created using MySQLWorkbench 8.0C
   - Each query listed above is a store procedure which can be called using: CALL TP_Q#();
