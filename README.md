@@ -17,10 +17,11 @@ The purpose of Project 1's data model was to assist a chain of supermarkets in e
 
 DATA DICTIONARY:
 
-<img width="664" height="289" alt="Screenshot 2026-03-28 at 12 01 13 PM" src="https://github.com/user-attachments/assets/04164bbd-a64c-4f1c-a668-bdda6af93027" />
 
 
 QUERIES:
+
+<img width="664" height="289" alt="Screenshot 2026-03-28 at 12 01 13 PM" src="https://github.com/user-attachments/assets/04164bbd-a64c-4f1c-a668-bdda6af93027" />
 
 Query #1 (Total Sales per Store)
      What are the total sales for each individual store?
