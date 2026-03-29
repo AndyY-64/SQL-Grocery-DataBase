@@ -78,6 +78,7 @@ This query identifies products whose prices are higher than the average price in
 <img width="812" height="505" alt="Screenshot 2026-03-28 at 12 15 36 PM" src="https://github.com/user-attachments/assets/aedbd0e4-eb50-49b5-aa5d-71d426f1f252" />
 
 DATABASE INFORMATION: 
+
 Database Name: al_Group_21482_G1
 
 Additonal Information:
