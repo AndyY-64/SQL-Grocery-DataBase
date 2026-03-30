@@ -11,11 +11,34 @@ TEAM MEMBERS:
 
 PROBLEM DESCRIPTION:
 
-Our mission is to build a relational database modeling a regional grocery store chain operating multiple locations across the southeastern United States. The primary entity in the model represents each stores unique "LocationID" - the specific location of each grocery across the southeast. Each store offers a variety of products grouped by category and sourced from a multitude of 3rd party suppliers. The database will support employee tracking, inventory management, customer transactions, and orders from suppliers. Using sample data, we will generate meaningful queries that will assist managers and executives in analyzing sales, tracking inventory, and managing store profitabiltiy. 
+Our mission is to design and implement a relational database that models a regional grocery store chain operating across multiple locations in the southeastern United States. The central entity in the model is the StoreLocation, identified by a unique locationId, which represents each physical store.
+
+The business operates:
+
+5 store locations
+3 suppliers
+50 customers
+50 employees
+50 products
+8 sections per store
+
+Each store offers a variety of products organized into sections (e.g., produce, dairy, frozen goods), with products sourced from third-party suppliers. The system is designed to support core business operations, including inventory tracking, employee management, customer transactions, and order processing.
+
+Using generated sample data, the database will enable meaningful queries that help managers and executives analyze sales performance, monitor inventory levels, evaluate supplier relationships, and improve overall store profitability.
 
 DATA MODEL:
 
-The purpose of Project 1's data model was to assist a chain of supermarkets in effectively and efficiently managing its inventory, orders, customers, employees, suppliers, categories, and store locations. The model uses normalized relational tables with primary and foreign keys to describe real-world business relationships and preserve data integrity. While suppliers and categories can be connected to several items, each product in the data model is a member of a single category and is provided by a single supplier. The problem of clients submitting many orders, each handled by a single employee and including different products, is resolved by the Order Item table, which keeps track of quantity and unit price. An inventory table is used to track the many-to-many relationship between products and stores by tracking inventory across several store locations. The store locations are managed by employees, and all relationships are enforced using foreign keys.
+The data model is designed to accurately represent the relationships between key entities within a grocery store chain while maintaining data integrity through normalization and the use of primary and foreign keys.
+
+At the core of the model are storeLocations (5), which serve as the operational hubs where inventory is stocked, employees are assigned, and customer transactions occur. Each store is linked to its inventory through a many-to-many relationship with Products, illusrated by the Inventory table, which tracks the quantity of each product available at each location.
+
+Products are associated with both a Supplier and a Section. Each product is supplied by exactly one supplier and categorized into one section, while suppliers and sections can each be linked to multiple products. This structure allows for efficient tracking of product sourcing and organization within stores.
+
+Customer purchases are represented through the Order table, where each order is placed by a single customer and processed by a single employee. The relationship between orders and products is handled by the OrderItem table, which records the specific items included in each transaction along with their quantities and prices. This design enables detailed analysis of purchasing behavior and sales performance.
+
+Employees are handled through the StoreEmployee table, which assigns each employee to a specific store location. This ensures that employees are properly associated with a single store while allowing each store to maintain a team of multiple employees.
+
+Overall, the model supports both operational functionality and analytical capabilities by clearly defining relationships between entities and ensuring consistency through enforced constraints. This structure enables efficient querying for business insights such as inventory distribution, sales patterns, and employee utilization.
 
 <img width="947" height="738" alt="Screenshot 2026-03-29 at 4 38 04 PM" src="https://github.com/user-attachments/assets/32922529-8462-4a1f-acf2-5d27df8e2a1d" />
 
