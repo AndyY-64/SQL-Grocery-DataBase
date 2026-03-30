@@ -35,7 +35,7 @@ DATA MODEL:
 
 The data model is designed to accurately represent the relationships between key entities within a grocery store chain while maintaining data integrity through normalization and the use of primary and foreign keys.
 
-At the core of the model are storeLocations (5), which serve as the operational hubs where inventory is stocked, employees are assigned, and customer transactions occur. Each store is linked to its inventory through a many-to-many relationship with Products, illusrated by the Inventory table, which tracks the quantity of each product available at each location.
+At the core of the model are StoreLocations (5), which serve as the operational hubs where inventory is stocked, employees are assigned, and customer transactions occur. Each store is linked to its inventory through a many-to-many relationship with Products, illusrated by the Inventory table, which tracks the quantity of each product available at each location.
 
 Products are associated with both a Supplier and a Section. Each product is supplied by exactly one supplier and categorized into one section, while suppliers and sections can each be linked to multiple products. This structure allows for efficient tracking of product sourcing and organization within stores.
 
