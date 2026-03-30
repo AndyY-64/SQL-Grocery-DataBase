@@ -16,10 +16,15 @@ Our mission is to design and implement a relational database that models a regio
 The business operates:
 
 5 store locations
+
 3 suppliers
+
 50 customers
+
 50 employees
+
 50 products
+
 8 sections per store
 
 Each store offers a variety of products organized into sections (e.g., produce, dairy, frozen goods), with products sourced from third-party suppliers. The system is designed to support core business operations, including inventory tracking, employee management, customer transactions, and order processing.
