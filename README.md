@@ -1,5 +1,5 @@
 # SQL-Grocery-DataBase
-UGA MIST 4610 Spring 2026 Group Project Repository 
+UGA MIST 4610 Spring 2026 Group Project Repository
 
 TEAM MEMBERS:
 1. Andrew Yancey, - https://github.com/AndyY-64
